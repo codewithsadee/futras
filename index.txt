@@ -1,0 +1,221 @@
+Futras - Fitness & Nutrition
+
+
+
+#---------- HEADER ----------#
+
+Futras.
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+All Course
+Blog
+Contact
+
+Sign Up
+
+aria-label = open manu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Fitness & Nutrition
+
+This life style for your fitness, not only diet.
+
+It has survived not only five centuries but also
+
+Start Course
+
+Connect with us:
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-skype"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+
+
+#---------- SERVICE ----------#
+
+Women’s Course
+
+Lorem Ipsum is simply dummy themes industryes psum has been them industry the loep into type setting.
+
+<ion-icon name="arrow-forward"></ion-icon>
+
+Basic Course
+
+Men’s Course
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+Meet Instructor
+
+25+ Years Of Experience
+
+We have expert instructor for help our students.
+
+Lorem Ipsum is simply dummy text the printing and typesetting standard dummy text ever since the 150 when an unknown printe specimen book has survived centuries.
+
+100+ Courses
+
+
+
+#---------- COURSE ----------#
+
+100+ Courses Available
+Fitness & Nutrition Courses
+
+alt = Children Nutrition and Cooking
+$98
+By: Ryan Patterson
+
+Children Nutrition and Cooking
+
+08 hr 20 mins
+28 Lectures
+
+
+alt = Introduction to Food and Health.
+$72
+By: Arlene Daniels
+
+Introduction to Food and Health.
+09 hr 25 mins
+16 Lectures
+
+
+alt = Nutrition and Lifestyle in Pregnancy
+$68
+By: Selina Benton
+
+Nutrition and Lifestyle in Pregnancy
+03 hr 38 mins
+18 Lectures
+
+
+alt = Expertise on Fitness, Nutrition and Health
+$98
+By: Ryan Patterson
+
+Expertise on Fitness, Nutrition and Health
+02 hr 16 mins
+14 Lectures
+
+
+alt = Hacking exercise for health new science of fitness
+$72
+By: Arlene Daniels
+
+Hacking exercise for health new science of fitness
+06 hr 12 mins
+35 Lectures
+
+
+alt = Designing Your Personal Weight Loss Plan
+$68
+By: Selina Benton
+
+Designing Your Personal Weight Loss Plan
+09 hr 34 mins
+28 Lectures
+
+
+
+#---------- BLOG ----------#
+
+Our Blog Post
+
+Latest Article of Nutrition
+
+
+24 Feb
+By: Maddie Rife
+
+87 Likes
+58 Share
+
+It was popularised sheets the release contain
+
+Lorem sum same dummy text theme industry psum have been them industry the leaf into type setting.
+
+
+
+#---------- CTA ----------#
+
+Mobile App Available
+
+Download our mobile app.
+and start coaching anytime.
+
+alt = Play Store
+alt = App Store
+
+
+
+#---------- FOOTER ----------#
+
+Subscribe Newsletter
+
+Lorem Ipsum has been them an industry printer took a galley make book.
+
+aria-label = email
+placeholder = Enter email
+
+Subscribe Now
+ 
+All Courses
+
+Daily Exercise
+Find Your Balance
+Personal Program
+Natural Process
+Immune System
+Gives You Energy
+
+
+Help Links
+
+Privacy Policy
+Discussion
+Terms & Conditions
+Customer Support
+Course FAQ’s
+Online Classes
+
+
+Opening Hours
+
+Mon-Fri: 9 AM – 6 PM
+Saturday: 9 AM – 4 PM
+Sunday: Closed
+Location
+176 W street name, New
+York, NY 10014
+
+&copy; 2022 Futras Made With 
+<ion-icon name="heart" aria-hidden="true"></ion-icon> by
+codewithsadee
+
+Terms of Service 
+Privacy Policy 
+Sitemap 
+Security
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
